@@ -6,3 +6,5 @@ This repo currently consists of:
   * DAY4
     * 4-forms: alien abduction request form
     * 5-github: calculator
+  * DAY5
+    * star-mole: feed-a-mole game
